@@ -1,0 +1,15 @@
+[submodule "winipcfg-go"]
+	path = winipcfg-go
+	url = git@github.com:tailscale/winipcfg-go
+[submodule "wireguard-go"]
+	path = wireguard-go
+	url = git@github.com:tailscale/wireguard-go
+[submodule "oss"]
+	path = oss
+	url = git@github.com:tailscale/tailscale
+[submodule "bbolt"]
+	path = bbolt
+	url = git@github.com:tailscale/bbolt
+[submodule "etcdserver"]
+	path = etcdserver
+	url = git@github.com:tailscale/etcd
